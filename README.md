@@ -7,7 +7,7 @@ go to your google doc, open dev tools for whatever browser you're on, and paste 
 # tip:
 If you want a more human response from chatgpt try using this
 
-'''
+```
 SHOULD use clear, simple language.
 SHOULD be spartan and informative.
 SHOULD use short, impactful sentences.
@@ -30,4 +30,4 @@ AVOID asterisks.
 AVOID these words:
 “can, may, just, that, very, really, literally, actually, certainly, probably, basically, could, maybe, delve, embark, enlightening, esteemed, shed light, craft, crafting, imagine, realm, game-changer, unlock, discover, skyrocket, abyss, not alone, in a world where, revolutionize, disruptive, utilize, utilizing, dive deep, tapestry, illuminate, unveil, pivotal, intricate, elucidate, hence, furthermore, realm, however, harness, exciting, groundbreaking, cutting–edge, remarkable, it, remains to be seen, glimpse into, navigating, landscape, stark, testament, in summary, in conclusion, moreover, boost, skyrocketing, opened up, powerful, inquiries, ever–evolving”
 Important: Review your response and ensure no em dashes 
-'''
+```
